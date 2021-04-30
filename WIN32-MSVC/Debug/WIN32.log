@@ -1,0 +1,5 @@
+﻿  main_blinky.c
+D:\Year 4\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(34): warning C4702: unreachable code
+D:\Year 4\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(72): warning C4702: unreachable code
+D:\Year 4\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(50): warning C4702: unreachable code
+  WIN32.vcxproj -> D:\Year 4\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
